@@ -19,3 +19,9 @@ Task-2:
 https://github.com/KMohnishM/Codsoft_python/assets/156217686/715670fd-97d5-4b44-a1f9-00f65929b063
 
 
+This is task-3 Rock Paper Scissor Game . 
+Computer Vs Player 
+Task-3:
+
+https://github.com/KMohnishM/Codsoft_python/assets/156217686/3ea99aee-cabc-430d-8700-4bf385773bd2
+
